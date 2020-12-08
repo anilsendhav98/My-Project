@@ -13,3 +13,4 @@ public class EurekaServer1Application {
 	}
 
 }
+//shv009 changes
