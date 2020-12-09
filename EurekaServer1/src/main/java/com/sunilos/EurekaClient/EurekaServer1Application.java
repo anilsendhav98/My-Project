@@ -13,3 +13,4 @@ public class EurekaServer1Application {
 	}
 
 }
+//uday changes
